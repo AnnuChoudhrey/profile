@@ -1,0 +1,90 @@
+body{
+    background-color:aqua; 
+    width: 600px;
+   }
+
+h2{
+    font-variant: small-caps;
+    text-align: center;
+    border: 5px;
+    border-radius: 5px;
+  }
+h4{
+    background-color: aliceblue;
+    border: 2px;
+    border-radius: 5px;
+    border-style:groove ;
+    text-align: center;
+  } 
+
+h5{
+    background-color: aliceblue;
+    border: 2px;
+    border-radius: 5px;
+    border-style: groove;
+    text-align: center;
+  }
+
+#submit{
+    border-style: none;
+    color: black;
+    border-radius: 4px;
+    width: 60px;
+    height: 30px;
+    padding: 5px;
+    background-color: rgb(253, 116, 52);
+    text-decoration: none;
+} 
+
+#submit:hover{
+    border-style:none;
+    color:white;
+    border-radius: 4px;
+    background-color: rgb(52, 106, 253);
+    cursor:pointer;
+} 
+
+#reset
+{
+    width: 60px;
+    height: 30px;
+    border-style:none;
+    color: black;
+    background-color: rgb(253, 116, 52);
+    border-radius: 4px; 
+    font-weight: 200;
+    text-decoration: none;
+}  
+
+    #reset:hover{
+    border-style:none;
+        color:white;
+        border-radius: 3px;
+        background-color: rgb(52, 106, 253);        
+        cursor:pointer;        
+    }
+
+#pswrd{
+    width: 170px;
+}
+
+#full{
+    border: 2px solid black;
+    padding: 80px;
+    width: 300px;
+    border-radius: 4px;
+}
+.div{
+    background-color: rgb(223, 216, 208);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#feed{
+    width: 250px;
+    height: 100px;
+}
+
+#select{cursor:pointer;}
+
+#heading{text-decoration: line-through;}

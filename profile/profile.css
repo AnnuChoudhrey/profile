@@ -1,0 +1,100 @@
+body{
+   align-content: center;
+}
+.title
+{
+   text-align: center;
+}
+
+#politician
+{
+   text-align: center;
+}
+.list1
+{
+  padding-left: 42%;
+}
+
+#education
+{
+   text-align: center;
+}
+.list2{
+  padding-left: 40%;
+}
+#College{
+   text-align: center;
+}
+.College
+{
+ padding-left: 35%;  
+}
+#Part{
+   text-align: center;
+}
+.Part
+{
+padding-left: 7%;   
+}
+
+.address
+{
+text-align: center;
+}
+
+h1{
+   text-align: center;
+}
+#instaimg ,#fbimg, #linkimg
+{  text-align: center;
+   width: 90px;
+   -webkit-clip-path: circle(49.0% at 50% 50%);
+    clip-path: circle(49.0% at 50% 50%);
+}
+#img
+{
+text-align: center;
+}
+#instaimg:hover ,#fbimg:hover, #linkimg:hover
+{
+   width: 120px;
+}
+
+#instaimg:visited ,#fbimg:visited, #linkimg:visited
+{
+   width: 10px;
+}
+footer{
+   background-color: rgb(208, 216, 233);
+   border-radius: 50px;
+   margin-left: 35%;
+   margin-right: 35%;
+   margin-bottom: 10%;
+   padding: 10px;
+}
+
+.Something{
+   background-color: rgb(69, 128, 240);
+   margin-left: 40%;
+   margin-right: 35%;
+   border-radius: 50px;
+}
+.annu{
+   
+   text-decoration: line-through;
+}
+
+.cal{
+   width: 200px;
+   height: 140px;
+   margin-bottom: 100px;
+   margin-left: 45%;
+}
+a{
+   text-decoration: none;
+}
+aside{
+   text-align: right;
+}
+select{width: 100px;
+align-content: flex-start;}

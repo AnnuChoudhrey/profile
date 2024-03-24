@@ -1,0 +1,120 @@
+@font-face{
+    font-family: instagram;
+    
+    src: url(font/Marshmallow\ Personal\ Use.ttf);
+}
+body{
+    background-color:white;
+    width: 300px;
+    height: 500px;
+    font-family: 'Nunito', sans-serif;
+    font-weight:500;
+    /*posision*/
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1{
+    text-align: center;
+    font-family: instagram;
+    font-weight: lighter;
+    font-size: xx-large;
+    outline-color: black;
+    outline: 5px;
+}
+
+#Instagram{
+    border: 1px solid black;
+    text-align: center;
+    width: 450px;
+    height: 400px;
+    background-color:white;
+}
+#login{
+    background-color: dodgerblue;
+    border-radius: 3px;
+    border: none;
+    padding-right: 100px;
+    padding-left: 100px;
+    color: white;
+    font-size: medium;
+    text-decoration: none;
+}
+
+#links{
+    text-align: right;
+    margin-right: 27%;
+    color: rgb(20, 118, 231);
+    font-size: small;   
+}
+#p2{
+    color:rgb(20, 118, 231);
+    text-decoration: none;
+}
+
+#have{
+        color: gray;
+        font-size: small;
+}
+.fb{
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 2px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size:small;
+    text-align: left;
+    text-decoration: none;
+}
+
+#pswrd{ 
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: left;
+    font-size: 15px;
+}
+#email{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 15px;
+    
+}
+#fbimg{
+   
+    padding-top: 1px;
+    padding-left: 1px;
+    padding-bottom: 1px;
+    padding-right: 1px;
+    width: 4%;
+    height: 4%;
+    vertical-align: middle;
+    background-color: dodgerblue;
+}
+#fblogo{
+    text-align: center;
+    padding-left: 37px;
+    padding-right: 37px;
+    border-radius: 3px;
+}
+select{
+    font-size: 10px;
+    border: none;
+}
+.save{
+    font-size:smaller;
+     margin-bottom: 10px;
+     margin-top: 5px;
+     margin-right: 120px;
+}
+a{
+    color: rgb(20, 118, 231);
+    text-decoration: none;
+}
+
+section:hover{
+background-color: yellow;
+}

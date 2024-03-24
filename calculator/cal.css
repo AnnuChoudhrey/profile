@@ -1,0 +1,47 @@
+#div1 {
+  background-image: url(DSC_0295.jpg);
+  background-size:cover;
+  border: 7px solid rgb(179, 179, 152);
+  border-radius: 3%;
+  width: 680px;
+  height: 740px;
+  text-align: center;
+  margin-top: 10%;
+  margin-left: 35%;
+}
+#logo {
+  text-decoration: line-through;
+  color: rgb(255, 254, 254);
+  font-size: 80px;
+  font-style:initial;
+  margin-top: 40px;
+}
+
+
+.btn {
+  font-size: xx-large;
+  margin: 20px;
+  border-radius: 5px;
+  border: 3px solid rgb(114, 114, 145);
+  width: 120px;
+  height: 70px}
+#display {
+  border-radius: 5px;
+  width: 440px;
+  height: 65px;
+  font-size: xx-large;
+}
+
+#del {
+  font-size:xx-large;
+  padding:1px;
+  margin-top:10px ;
+}
+
+.btn:hover{
+  background-color: black;
+  color: aliceblue;
+}
+.div2{
+  margin-top: 5%;
+}
